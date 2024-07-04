@@ -16,10 +16,7 @@ The Weather App is a simple and intuitive application that provides real-time we
 ## Installation
 Follow these steps to get the Weather App up and running on your local machine:
 
-1. Download the repository as a ZIP file or clone it:
-    ```sh
-    git clone https://github.com/yourusername/weather-app.git
-    ```
+1. Download the repository as a ZIP file:
 
 2. Extract the ZIP file (if downloaded).
 
