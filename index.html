@@ -11,7 +11,9 @@
 <body>
     <div class="card">
         <div class="search">
-            <input type="text" placeholder="city name" spellcheck="false">
+            <input type="text" placeholder="city name" spellcheck="false" onkeydown="
+                if(event.key=='Enter')checkWeather(searchbox.value);
+            ">
             <button>
                 <img src="images/search.png">
             </button>
